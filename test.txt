@@ -1,0 +1,376 @@
+
+
+<!doctype html>
+<html class="no-js" lang="en" id="html" data-ng-app="sf.viewer">
+    <head>
+        <meta charset="utf-8">
+
+        <base href="/">
+
+		<title>a270.mp4 | Solidfiles</title>
+
+        
+        <link rel="stylesheet" type="text/css" href="https://solidfilescdn.com/static/css/main.1364add1608b.css">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-XdYbMnZ/QjLh6iI4ogqCTaIjrFk87ip+ekIjefZch0Y+PvJ8CDYtEs1ipDmPorQ+" crossorigin="anonymous">
+        
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <meta name="token" content="tDtQvQfsiTugKzkKdhOhyJ8FiLJsej6vKl5A6ERI3z43XX5dA88B6QNJSZ3P0xY6"/>
+
+        
+            <meta name="description" content="Download a270.mp4 on Solidfiles.">
+        
+
+        
+            <meta name="keywords" content="download,a270.mp4">
+        
+
+        
+
+        
+            <link rel="apple-touch-icon" sizes="57x57" href="https://solidfilescdn.com/static/icons/apple-touch-icon-57x57.22d321605526.png">
+            <link rel="apple-touch-icon" sizes="60x60" href="https://solidfilescdn.com/static/icons/apple-touch-icon-60x60.4096c46926e9.png">
+            <link rel="apple-touch-icon" sizes="72x72" href="https://solidfilescdn.com/static/icons/apple-touch-icon-72x72.7de668c1c8ec.png">
+            <link rel="apple-touch-icon" sizes="76x76" href="https://solidfilescdn.com/static/icons/apple-touch-icon-76x76.c196946997f3.png">
+            <link rel="apple-touch-icon" sizes="114x114" href="https://solidfilescdn.com/static/icons/apple-touch-icon-114x114.294af7e111c8.png">
+            <link rel="apple-touch-icon" sizes="120x120" href="https://solidfilescdn.com/static/icons/apple-touch-icon-120x120.4ad3396fdde4.png">
+            <link rel="apple-touch-icon" sizes="144x144" href="https://solidfilescdn.com/static/icons/apple-touch-icon-144x144.3b96aefaf97d.png">
+            <link rel="apple-touch-icon" sizes="152x152" href="https://solidfilescdn.com/static/icons/apple-touch-icon-152x152.ffa0539a9ebf.png">
+            <link rel="apple-touch-icon" sizes="180x180" href="https://solidfilescdn.com/static/icons/apple-touch-icon-180x180.999e959518d2.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/favicon-16x16.0343d998569a.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/favicon-32x32.ff23f4220d7c.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/favicon-96x96.25178e08097e.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/favicon-230x230.de8efa4d3928.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/android-chrome-36x36.ddffebbcc301.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/android-chrome-48x48.ed8209c45fab.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/android-chrome-72x72.7de668c1c8ec.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/android-chrome-96x96.25178e08097e.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/android-chrome-144x144.3b96aefaf97d.png">
+            <link rel="icon" type="image/png" href="https://solidfilescdn.com/static/icons/android-chrome-192x192.2c328923a857.png">
+            <link rel="manifest" href="https://solidfilescdn.com/static/icons/manifest.36e31ee5e4b4.json">
+            <link rel="shortcut icon" href="https://solidfilescdn.com/static/icons/favicon.7bce66cc0baa.ico">
+            <meta name="apple-mobile-web-app-title" content="Solidfiles">
+            <meta name="application-name" content="Solidfiles">
+            <meta name="msapplication-TileColor" content="#1b99b9">
+            <meta name="msapplication-TileImage" content="https://solidfilescdn.com/static/icons/mstile-144x144.3b96aefaf97d.png">
+            <meta name="msapplication-config" content="https://solidfilescdn.com/static/icons/browserconfig.2549b9d30b59.xml">
+            <meta name="theme-color" content="#1b99b9">
+        
+
+        
+        <script>!function(e,t,a,n,c,o,s){e.GoogleAnalyticsObject=c,e[c]=e[c]||function(){(e[c].q=e[c].q||[]).push(arguments)},e[c].l=1*new Date,o=t.createElement(a),s=t.getElementsByTagName(a)[0],o.async=1,o.src="https://www.google-analytics.com/analytics.js",s.parentNode.insertBefore(o,s)}(window,document,'script',0,'ga'),ga('create','UA-12863264-1','auto');</script>
+        
+
+        
+    
+        <script>ga('set', 'title', 'Gv63aV8v5pyeX');</script>
+    
+
+    
+        <script>ga('send', 'pageview');</script>
+        
+
+
+        
+
+
+        
+        <script src="https://solidfilescdn.com/static/js/vendor/modernizr-2.8.3.min.da941a6e1e1d.js"></script>
+        
+
+        <script>-1!==navigator.appVersion.indexOf('Win')&&(document.documentElement.className+=' win');</script>
+
+        
+
+        
+    
+        <link rel="stylesheet" type="text/css" href="https://solidfilescdn.com/static/js/vendor/vjs/video-js.min.2f1b0de7c986.css">
+    
+
+	</head>
+
+	<body class="viewer  show-ads   streamable video" ng-controller="ViewerController as viewer" ng-class="{'zoomed': zoomed}">
+        <div id="fb-root"></div>
+
+        <div id="outdated">
+             <h6>Your browser is out-of-date!</h6>
+             <p>Update your browser to view this website correctly. <a id="btnUpdateBrowser" href="http://outdatedbrowser.com/">Update my browser now </a></p>
+             <p class="last"><a href="#" id="btnCloseUpdateBrowser" title="Close">&times;</a></p>
+        </div>
+
+        
+    <header id="header">
+        
+            <nav class="navbar navbar-site navbar-fixed-top" role="navigation">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="logo" href="/?ref=viewer-logo">Solidfiles</a>
+                    </div>
+
+                    
+                        <h1 class="node-name">a270.mp4</h1>
+                    
+
+                    <ul class="nav navbar-nav navbar-right">
+                        
+
+
+    <li>
+        <div class="navbar-btn btn-sm">
+            <a href="/signup?ref=viewer-nav" class="btn btn-sm btn-outline btn-default btn-inverse">Sign up</a>
+        </div>
+    </li>
+
+
+
+    
+    <li>
+        <div class="navbar-btn btn-sm">
+            <button class="btn btn-sm btn-default btn-outline" ng-click="viewer.showShareDialog()" data-ga-prevent="false">
+                Share
+            </button>
+        </div>
+    </li>
+    
+
+    
+
+
+                    </ul>
+                </div>
+            </nav>
+        
+    </header>
+
+    <div id="content">
+        
+    <div class="wrapper">
+            
+                <div class="top-section">
+                    
+                        
+
+<div class="bnr-1589746186 lead">
+    
+    
+        <a href="/premium?ref=remove-ad" class="remove">
+            <i class="fa fa-times-circle"></i>
+            Remove ad
+        </a>
+    
+</div>
+
+                    
+                </div>
+            
+
+        <div class="middle">
+            
+                <div class="left">
+                    
+
+<div class="bnr-1589746186 rect">
+    
+    
+        <a href="/premium?ref=remove-ad" class="remove">
+            <i class="fa fa-times-circle"></i>
+            Remove ad
+        </a>
+    
+</div>
+
+                </div>
+            
+
+            <div class="right">
+                
+                    <article class="box">
+                        
+                            
+                                <div class="box-content no-padding">
+                                    <div class="player-wrap">
+                                        <player
+                                                id="player"
+                                                class="player"
+                                                url="viewer.options.streamUrl"
+                                                share-url="viewer.options.shareUrl"
+                                                splash-url="viewer.options.splashUrl"
+                                                embed-url="viewer.options.embedUrl"
+                                                subtitles="viewer.options.subtitles"
+                                                mimetype="viewer.options.mimetype"
+                                                filetype="viewer.options.filetype">
+                                        </player>
+                                    </div>
+                                </div>
+                            
+
+                            
+                            <section class="box-content meta">
+                                <i class="icon filetype-icon filetype-video"></i>
+
+                                <h1>
+                                    
+                                        a270.mp4
+                                    
+                                </h1>
+
+                                <p>
+                                    
+                                    <a class="share" ng-click="viewer.showShareDialog()" bs-tooltip data-placement="bottom" title="Share"><i class="fa fa-share-square"></i></a>
+                                    <copy-button class="copy hidden-xs" copy-text="viewer.options.shareUrl"></copy-button>
+                                    5.9 MB - 4 days, 6 hours ago
+                                </p>
+                            </section>
+                            
+
+                            
+
+                            <section class="box-content">
+                                
+                                    <div class="buttons">
+                                        
+                                            <form action="/v/Gv63aV8v5pyeX/dl" method="post">
+                                                <input type='hidden' name='csrfmiddlewaretoken' value='tDtQvQfsiTugKzkKdhOhyJ8FiLJsej6vKl5A6ERI3z43XX5dA88B6QNJSZ3P0xY6' />
+                                                <input type="hidden" name="referrer" value=""/>
+                                                <button type="submit" class="btn btn-primary btn-sm">
+                                                    Download
+                                                </button>
+                                            </form>
+                                        
+                                    </div>
+                                
+
+                                <div class="social">
+                                    
+
+                                    
+                                        <a href="https://twitter.com/solidfiles" class="twitter-follow-button" data-show-count="false">Follow @solidfiles</a>
+                                    
+                                </div>
+                            </section>
+                        
+                    </article>
+                    
+
+                    
+                        <article class="box premium-promo">
+                            <section class="box-content">
+                                <p>
+                                    <a href="/premium?ref=dl-promo-text" data-ga-event="Viewer:Clicked Upgrade Text">
+                                        <span>Get no ads, faster speeds and direct downloads!</span>
+                                    </a>
+                                </p>
+
+                                <a class="btn btn-success btn-block-xs" href="/premium?ref=dl-promo-btn" data-ga-event="Viewer:Clicked Upgrade Button">Learn more</a>
+                            </section>
+                        </article>
+                    
+                
+            </div>
+        </div>
+    </div>
+
+
+        <nav class="navbar navbar-site navbar-fixed-bottom">
+            <div class="container-fluid">
+                <ul class="nav navbar-nav">
+                    
+
+
+    <li>
+        <div class="navbar-btn btn-sm">
+            <a href="/signup?ref=viewer-nav" class="btn btn-sm btn-outline btn-default btn-inverse">Sign up</a>
+        </div>
+    </li>
+
+
+
+    
+    <li>
+        <div class="navbar-btn btn-sm">
+            <button class="btn btn-sm btn-default btn-outline" ng-click="viewer.showShareDialog()" data-ga-prevent="false">
+                Share
+            </button>
+        </div>
+    </li>
+    
+
+    
+
+
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+
+        
+    
+
+            
+    
+                <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+                <script>window.jQuery || document.write('<script src="https://solidfilescdn.com/static/js/vendor/jquery-2.1.1.min.e40ec2161fe7.js"><\/script>')</script>
+            
+
+    <script>window.sfb=true;</script>
+    <script src="https://solidfilescdn.com/static/js/advertisement.e6a6be4b3f1a.js"></script>
+
+    
+        
+            <script>'object'==typeof JSON&&'function'==typeof JSON.stringify||$.getScript('https://solidfilescdn.com/static/js/vendor/json3.5d9da6781b7b.js');var tracked=!1;$('#download-btn').click(function(){setTimeout(function(){tracked||($.ajax({method:'POST',url:'/api/nodes/1684777912395132551/downloads',contentType:'application/json',data:JSON.stringify({t:'YTFmYzhmY2U1ZWNlOTI5ZjM4OGQ1NzY4ZTY5OWZiOTk5NzJlNDg4YzoxamFOalM6Vk9hbHU1bDVrMUEzTFJhOTRvLU1xT2JZZG84',s:!1,r:window.document.referrer,b:!!window.sfb})}),tracked=!0),ga('send','event','Files','Downloaded File')},100)});</script>
+        
+    
+
+        
+
+
+    
+        
+        
+        
+
+        
+            
+        
+
+        
+    
+
+
+        
+    
+        <script src="https://solidfilescdn.com/static/js/vendor/vjs/video.min.cd4de18648b0.js"></script>
+    
+    
+    
+    
+
+    
+    <script src="https://solidfilescdn.com/static/js/viewer-vendor.c22aedac67fb.js"></script>
+    <script src="https://solidfilescdn.com/static/js/viewer.53110875060b.js"></script>
+
+
+    <script>$(function(){FastClick.attach(document.body)});</script>
+
+    
+        <script>$(function(){outdatedBrowser({lowerThan:'transform',languagePath:''})});</script>
+    
+
+    <script>angular.module('sf').constant('config', {"logoutPath":"/logout","siteName":"Solidfiles","siteType":"storage","refreshTokenPath":"/app/refresh_token","apiBase":"https://www.solidfiles.com/api/","stripeKey":"pk_live_tb6tlsFxcbpSeYTWvZqlB8Bt","recaptchaPubKey":"6Lc8sYAUAAAAAFOOOBQkBZXIhR1nTS-wOp-Kcjb9","loginPath":"/app/login","features":{"ftp":false,"referrals":false,"streams":true,"selfDestruction":true,"billing":true,"passwordProtection":true,"downloads":true,"shareByEmail":false,"affiliates":false},"trialDays":60,"appPath":"/app","guestSizeLimit":524288000,"staticPath":"https://solidfilescdn.com/static/","apiBatchUrl":"https://www.solidfiles.com/api/batch","auth":"","expiryDays":-1,"templatePath":"https://solidfilescdn.com/static/templates/","siteUrl":"http://www.solidfiles.com/","expiredRetentionDays":30,"debug":false,"supportEmail":"support@solidfiles.com","playerLogoUrl":"https://solidfilescdn.com/static/img/player-logo.8d70387a6a09.png","fileExts":[]});</script>
+
+
+    <script>angular.module('sf.viewer').constant('viewerOptions', {"mimetype":"video/mp4","splashUrl":"https://i.solidfiles.com/Gv63aV8v5pyeX/LwYaRMyAL7GNr.jpg","streamUrl":"https://s05-stream.solidfilesusercontent.com/stream/YTFmYzhmY2U1ZWNlOTI5ZjM4OGQ1NzY4ZTY5OWZiOTk5NzJlNDg4YzoxamFOalM6Vk9hbHU1bDVrMUEzTFJhOTRvLU1xT2JZZG84/Gv63aV8v5pyeX.mp4","nodeName":"a270.mp4","filetype":"video","shareUrl":"http://www.solidfiles.com/v/Gv63aV8v5pyeX","nodeId":"1684777912395132551","downloadUrl":"https://s05.solidfilesusercontent.com/YTFmYzhmY2U1ZWNlOTI5ZjM4OGQ1NzY4ZTY5OWZiOTk5NzJlNDg4YzoxamFOalM6Vk9hbHU1bDVrMUEzTFJhOTRvLU1xT2JZZG84/Gv63aV8v5pyeX/a270.mp4","ticket":"YTFmYzhmY2U1ZWNlOTI5ZjM4OGQ1NzY4ZTY5OWZiOTk5NzJlNDg4YzoxamFOalM6Vk9hbHU1bDVrMUEzTFJhOTRvLU1xT2JZZG84","embedUrl":"http://www.solidfiles.com/e/Gv63aV8v5pyeX","subtitles":[]});</script>
+
+
+
+        
+            <script>!function(e,t,n){function a(){var e,a=t.getElementsByTagName(n)[0],o=function(o,d,c){t.getElementById(d)||(e=t.createElement(n),e.src=o,e.id=d,void 0!==c&&(e.onload=e.onreadystatechange=c),a.parentNode.insertBefore(e,a))};o('//connect.facebook.net/en_US/all.js#xfbml=1&appId=','facebook-jssdk'),o('//platform.twitter.com/widgets.js','twitter-wjs')}e.addEventListener?e.addEventListener("load",a,!1):e.attachEvent&&e.attachEvent("onload",a)}(window,document,'script');</script>
+        
+
+    
+	</body>
+</html>
